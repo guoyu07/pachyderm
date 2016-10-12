@@ -1,14 +1,20 @@
-## ./pachctl list-pipeline
+## ./pachctl unmount
 
-Return info about all pipelines.
+Unmount pfs.
 
 ### Synopsis
 
 
-Return info about all pipelines.
+Unmount pfs.
 
 ```
-./pachctl list-pipeline
+./pachctl unmount path/to/mount/point
+```
+
+### Options
+
+```
+  -a, --all   unmount all pfs mounts
 ```
 
 ### Options inherited from parent commands

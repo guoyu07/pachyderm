@@ -1,14 +1,20 @@
-## ./pachctl list-pipeline
+## ./pachctl replay-commit
 
-Return info about all pipelines.
+Replay a number of commits onto a branch.
 
 ### Synopsis
 
 
-Return info about all pipelines.
+Replay a number of commits onto a branch
+
+Examples:
+
+	# replay commits foo/2 and foo/3 onto branch "bar" in repo "test"
+	$ pachctl replay-commit test foo/2 foo/3 bar
+
 
 ```
-./pachctl list-pipeline
+./pachctl replay-commit repo-name commits branch
 ```
 
 ### Options inherited from parent commands
