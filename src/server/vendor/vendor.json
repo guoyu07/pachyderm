@@ -451,10 +451,22 @@
 			"revisionTime": "2016-06-01T19:11:21Z"
 		},
 		{
+			"checksumSHA1": "6QkdP1VGwazrtwSbzHeKAjdZJSE=",
+			"path": "github.com/go-openapi/spec",
+			"revision": "8f2b3d0e3aa15100eea0ab61dc6fa02f00f5e713",
+			"revisionTime": "2016-10-13T15:53:17Z"
+		},
+		{
 			"checksumSHA1": "iZVulPMFFGC70xeLZJafiKzTn18=",
 			"path": "github.com/gogo/protobuf/proto",
 			"revision": "7883e1468d48d969e1c3ce4bcde89b6a7dd4adc4",
 			"revisionTime": "2016-05-31T11:38:55Z"
+		},
+		{
+			"checksumSHA1": "HPVQZu059/Rfw2bAWM538bVTcUc=",
+			"path": "github.com/gogo/protobuf/sortkeys",
+			"revision": "99cb9b23110011cc45571c901ecae6f6f5e65cd3",
+			"revisionTime": "2016-10-05T20:17:23Z"
 		},
 		{
 			"checksumSHA1": "HmbftipkadrLlCfzzVQ+iFHbl6g=",
