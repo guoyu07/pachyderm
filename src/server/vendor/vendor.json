@@ -49,6 +49,12 @@
 			"revisionTime": "2016-05-08T10:46:42Z"
 		},
 		{
+			"checksumSHA1": "9Ob5JNGzi/pGXYMuHclig69IHPk=",
+			"path": "github.com/PuerkitoBio/purell",
+			"revision": "8a290539e2e8629dbc4e6bad948158f790ec31f4",
+			"revisionTime": "2016-07-28T01:56:03Z"
+		},
+		{
 			"checksumSHA1": "htjvdG/znrHmFYRQBqA2vHrJsF4=",
 			"path": "github.com/Sirupsen/logrus",
 			"revision": "f3cfb454f4c209e6668c95216c4744b8fddb2356",
@@ -611,6 +617,18 @@
 			"path": "github.com/juju/ratelimit",
 			"revision": "77ed1c8a01217656d2080ad51981f6e99adaa177",
 			"revisionTime": "2015-11-25T20:19:25Z"
+		},
+		{
+			"checksumSHA1": "NoYAAIWg/UuYk27qgb7d0tfEym0=",
+			"path": "github.com/mailru/easyjson/jlexer",
+			"revision": "9dc3521db3580379d6cc493938ef9d2e9782ee7b",
+			"revisionTime": "2016-10-10T20:53:32Z"
+		},
+		{
+			"checksumSHA1": "sP9qwMRDIMFDDHocXf6H1CKNrME=",
+			"path": "github.com/mailru/easyjson/jwriter",
+			"revision": "9dc3521db3580379d6cc493938ef9d2e9782ee7b",
+			"revisionTime": "2016-10-10T20:53:32Z"
 		},
 		{
 			"checksumSHA1": "rCffFCN6TpDAN3Jylyo8RFzhQ9E=",
